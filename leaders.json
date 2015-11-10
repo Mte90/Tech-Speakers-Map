@@ -15,6 +15,14 @@
 			"country": "India",
 			"lat": 12.3063978,
 			"lng": 76.6446806
+                },
+                {
+			"name": "Michael Kohler",
+			"url": "https://mozillians.org/mkohler",
+			"gravatar":"mkohler@picobudget.com",
+			"country": "Switzerland",
+			"lat": 46.948867,
+			"lng": 7.438747
 		},
 		{
 			"name": "Your Name",

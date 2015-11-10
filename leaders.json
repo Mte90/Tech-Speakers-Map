@@ -1,0 +1,21 @@
+{
+	"leaders": [
+		{
+			"name": "Daniele Scasciafratte",
+			"url": "https://mozillians.org/Mte90",
+			"gravatar":"mte90net@gmail.com",
+			"country": "Italy",
+			"lat": 42.4154,
+			"lng": 12.863985
+		},
+		{
+			"name": "Your Name",
+			"url": "https://mozillians.org/YourNick",
+			"gravatar":"youremail@domain.tld",
+			"country": "Nowhere",
+			"lat": 18.220554,
+			"lng": -63.068615
+		}
+	]
+
+}

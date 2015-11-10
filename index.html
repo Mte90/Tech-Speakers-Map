@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Participation Leaders Map</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="assets/normalize-css/normalize.css" />
+        <script src="assets/fetch/promise.min.js"></script>
+        <script src="assets/fetch/fetch.js"></script>
+        <link rel="stylesheet" href="assets/leaflet/leaflet.css" />
+        <script src="assets/leaflet/leaflet.js"></script>
+        <script src="assets/js/sorttable.js"></script>
+        <script src="assets/js/md5.js"></script>
+        <style>
+            body { margin-left:20px; margin-right:20px; }
+            #map { height: 80%; }
+            #list { margin-top:10px; width:100% }
+            table.sortable thead {
+                background-color:#eee;
+                font-weight: bold;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+        <table id="list" class="sortable">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Country</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+        <script src="assets/js/app.js"></script>
+    </body>
+</html>

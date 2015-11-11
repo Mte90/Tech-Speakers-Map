@@ -1,4 +1,4 @@
-#Partecipation Leaders Map
+#Participation Leaders Map
 
 **Fast project done in 30 minutes!**
 

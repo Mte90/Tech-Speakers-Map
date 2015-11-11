@@ -32,6 +32,14 @@
 			"lat": 46.948867,
 			"lng": 7.438747
 		},
+		        {
+			"name": "Nino Vranešič",
+			"url": "https://mozillians.org/elnino",
+			"gravatar":"nino.vranesic@elnino.si",
+			"country": "Slovenia",
+			"lat": 45.57148,
+			"lng": 15.19308
+		},
 		{
 			"name": "Your Name",
 			"url": "https://mozillians.org/YourNick",

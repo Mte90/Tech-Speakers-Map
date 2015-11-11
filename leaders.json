@@ -2,7 +2,7 @@
 	"leaders": [
 		{
 			"name": "Daniele Scasciafratte",
-			"url": "https://mozillians.org/Mte90",
+			"url": "https://mozillians.org/u/Mte90",
 			"gravatar":"mte90net@gmail.com",
 			"country": "Italy",
 			"lat": 42.4154,
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Akshay S Dinesh",
-			"url": "https://mozillians.org/asdofindia",
+			"url": "https://mozillians.org/u/asdofindia",
 			"gravatar":"asdofindia@gmail.com",
 			"country": "India",
 			"lat": 12.3063978,
@@ -18,7 +18,7 @@
                 },
                 {
 			"name": "Rabimba Karanjai",
-			"url": "https://mozillians.org/en-US/u/karanjai.moz/",
+			"url": "https://mozillians.org/u/karanjai.moz/",
 			"gravatar":"karanjai.moz@gmail.com",
 			"country": "United States",
 			"lat": 29.7604,
@@ -26,15 +26,23 @@
 		},
                 {
 			"name": "Michael Kohler",
-			"url": "https://mozillians.org/mkohler",
+			"url": "https://mozillians.org/u/mkohler",
 			"gravatar":"mkohler@picobudget.com",
 			"country": "Switzerland",
 			"lat": 46.948867,
 			"lng": 7.438747
 		},
+			{
+			"name": "Ioana chiorean",
+			"url": "https://mozillians.org/u/IoanaChiorean/",
+			"gravatar":"chiorean.ioana@gmail.com",
+			"country": "România",
+			"lat": 46.777248,
+			"lng": 23.5998899
+		},
 		        {
 			"name": "Nino Vranešič",
-			"url": "https://mozillians.org/elnino",
+			"url": "https://mozillians.org/u/elnino",
 			"gravatar":"nino.vranesic@elnino.si",
 			"country": "Slovenia",
 			"lat": 45.57148,
@@ -42,7 +50,7 @@
 		},
 		{
 			"name": "Mohammad Yaseen Khan",
-			"url": "https://mozillians.org/foxt7ot/",
+			"url": "https://mozillians.org/u/foxt7ot/",
 			"gravatar":"myaseen.khan@hotmail.com",
 			"country": "India",
 			"lat": 23.178546,
@@ -50,7 +58,7 @@
 		},
 		{
 			"name": "Your Name",
-			"url": "https://mozillians.org/YourNick",
+			"url": "https://mozillians.org/u/YourNick",
 			"gravatar":"youremail@domain.tld",
 			"country": "Nowhere",
 			"lat": 18.220554,

@@ -12,7 +12,7 @@ function create_map() {
 	minZoom: 2,
 	zoom: 2
   });
-  window.L.tileLayer('https://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
+  window.L.tileLayer('http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" title="MapQuest" target="_blank">MapQuest</a>',
 	subdomains: ['otile1', 'otile2', 'otile3', 'otile4']
   }).addTo(window.map);

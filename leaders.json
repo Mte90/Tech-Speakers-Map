@@ -63,14 +63,6 @@
 			"country": "UK",
 			"lat": 51.5085300,
 			"lng": -0.1257400
-		},
-		{
-			"name": "Your Name",
-			"url": "https://mozillians.org/u/YourNick",
-			"gravatar":"youremail@domain.tld",
-			"country": "Nowhere",
-			"lat": 18.220554,
-			"lng": -63.068615
 		}
 	]
 

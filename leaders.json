@@ -104,14 +104,5 @@
                         "lat": 17.385044,
                         "lng": 78.486671
                 }, 
-                {
-                        "name": "FirstName LastName", 
-                        "url": "https://mozillians.org/en-US/u/yourMozilliansID",
-                        "gravatar": "yourEmail@domail.tld",
-                        "country": "YourCountry",
-                        "lat": .........,
-                        "lng": .........
-                }
-                
 	]
 }

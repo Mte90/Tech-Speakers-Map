@@ -79,7 +79,14 @@
 			"country": "Bangladesh",
 			"lat": 23.7000,
 			"lng": 90.3667
-		}
+		},
+		{
+                        "name": "Shagufta Methwani", 
+                        "url": "https://mozillians.org/en-US/u/methwanishagufta/",
+                        "gravatar": "methwanishagufta@gmail.com",
+                        "country": "India",
+                        "lat": 18.4872770,
+                        "lng": 73.8211830
+                }
 	]
-
 }

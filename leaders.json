@@ -63,6 +63,14 @@
 			"country": "UK",
 			"lat": 51.5085300,
 			"lng": -0.1257400
+		},
+		{
+			"name": "Sayak Sarkar",
+			"url": "https://mozillians.org/en-US/u/Sayak/",
+			"gravatar":"sayak.bugsmith@gmail.com",
+			"country": "India",
+			"lat": 18.5203,
+			"lng": 73.8567
 		}
 	]
 

@@ -71,6 +71,14 @@
 			"country": "India",
 			"lat": 18.5203,
 			"lng": 73.8567
+		},
+		{
+			"name": "Asma Swapna",
+			"url": "https://mozillians.org/en-US/u/asma0swapna/",
+			"gravatar":"asma0swapna@gmail.com",
+			"country": "Bangladesh",
+			"lat": 23.7000,
+			"lng": 90.3667
 		}
 	]
 

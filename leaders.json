@@ -87,6 +87,14 @@
                         "country": "India",
                         "lat": 18.4872770,
                         "lng": 73.8211830
+                },
+		{
+                        "name": "Biraj Karmakar", 
+                        "url": "https://mozillians.org/en-US/u/biraj/",
+                        "gravatar": "brnet00@gmail.com",
+                        "country": "India",
+                        "lat": 22.34,
+                        "lng": 88.24
                 }
 	]
 }

@@ -14,7 +14,7 @@
 * Tap the pencil icon - near the history button - at the top of ther file **OR** https://github.com/Mte90/Participation-Lead-Map/edit/gh-pages/leaders.json 
 * Add your dates in a similar form as those already wenter between `},{` or copy this:  
 ```            
-{
+,{
       "name": "FirstName LastName", 
       "url": "https://mozillians.org/en-US/u/YourID",
       "gravatar": "youremail@domain.tld",
@@ -23,6 +23,7 @@
       "lng": 00
 }
 ```
+* Add at the end of file
 
 ###Issue/Ticket Way
 

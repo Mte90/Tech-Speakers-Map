@@ -72,6 +72,7 @@
 			"lat": 18.5203,
 			"lng": 73.8567
 		},
+<<<<<<< HEAD
 		{
 			"name": "Asma Swapna",
 			"url": "https://mozillians.org/en-US/u/asma0swapna/",
@@ -80,6 +81,18 @@
 			"lat": 23.7000,
 			"lng": 90.3667
 		}
+=======
+
+                {
+                        "name": "Shagufta Methwani", 
+                        "url": "https://mozillians.org/en-US/u/methwanishagufta/",
+                        "gravatar": "methwanishagufta@gmail.com",
+                        "country": "India",
+                        "lat": 18.4872770,
+                        "lng": 73.8211830
+                }
+>>>>>>> 14b25c7223f7ad6a902fc350b56386e54c18d3b4
 	]
 
 }
+",,

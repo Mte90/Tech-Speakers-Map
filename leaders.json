@@ -57,6 +57,14 @@
 			"lng": 75.770719
 		},
 		{
+			"name": "Alex Lakatos",
+			"url": "https://mozillians.org/u/AlexLakatos/",
+			"gravatar":"alex.lakatos@mozilla.ro",
+			"country": "UK",
+			"lat": 51.5085300,
+			"lng": -0.1257400
+		},
+		{
 			"name": "Your Name",
 			"url": "https://mozillians.org/u/YourNick",
 			"gravatar":"youremail@domain.tld",

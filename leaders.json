@@ -96,5 +96,14 @@
                         "lat": 22.34,
                         "lng": 88.24
                 }
+                {
+                        "name": "Sumanth Damarla", 
+                        "url": "https://mozillians.org/en-US/u/sumanth/",
+                        "gravatar": "damarla.sumanth@gmail.com",
+                        "country": "India",
+                        "lat": 17.385044,
+                        "lng": 78.486671
+                }
+                
 	]
 }

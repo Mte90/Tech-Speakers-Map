@@ -95,7 +95,7 @@
                         "country": "India",
                         "lat": 22.34,
                         "lng": 88.24
-                }
+                },
                 {
                         "name": "Sumanth Damarla", 
                         "url": "https://mozillians.org/en-US/u/sumanth/",
@@ -103,6 +103,14 @@
                         "country": "India",
                         "lat": 17.385044,
                         "lng": 78.486671
+                }, 
+                {
+                        "name": "FirstName LastName", 
+                        "url": "https://mozillians.org/en-US/u/yourMozilliansID",
+                        "gravatar": "yourEmail@domail.tld",
+                        "country": "YourCountry",
+                        "lat": .........,
+                        "lng": .........
                 }
                 
 	]

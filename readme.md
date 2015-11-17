@@ -24,6 +24,12 @@
 }
 ```
 * Add at the end of file
+* Now you need to create a new Pull Request, go to https://github.com/Mte90/Participation-Lead-Map/pulls
+* Click on New Pull Request
+* Click on Compare across forks
+* On Head fork search your fork (YourNickOnGitHub/Participation-Lead-Map/)
+* Click on create Pull Request
+* Done!
 
 ###Issue/Ticket Way
 

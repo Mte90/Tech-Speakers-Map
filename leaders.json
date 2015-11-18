@@ -111,7 +111,15 @@
                         "country": "Kenya",
                         "lat": -1.3048035,
                         "lng": 36.8473969
-                }
+                },
+                {
+                       "name": "Adriano Cupello", 
+                       "url": "https://mozillians.org/en-US/u/dricupello",
+                       "gravatar": "dricupello@gmail.com",
+                       "country": "Brazil",
+                       "lat": -22.910775,
+                       "lng": -43.106492
+                },
                 
 	]
 }

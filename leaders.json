@@ -119,6 +119,14 @@
          "country":"Brazil",
          "lat":-22.910775,
          "lng":-43.106492
+      },
+      {
+      "name": "Artem Polivanchuk", 
+      "url": "https://mozillians.org/en-US/u/a.polivanchuk/",
+      "gravatar": "a.polivanchuk@outlook.com",
+      "country": "Ukraine",
+      "lat": 50.548470,
+      "lng": 30.209454
       }
    ]
 }

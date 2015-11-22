@@ -127,6 +127,14 @@
       "country": "Ukraine",
       "lat": 50.548470,
       "lng": 30.209454
-      }
+      },
+      {
+         "name":"Errietta Kostala",
+         "url":"https://mozillians.org/u/errietta/",
+         "gravatar":"errietta@errietta.me",
+         "country":"UK",
+         "lat":53.642603,
+         "lng":-1.778514
+      },
    ]
 }

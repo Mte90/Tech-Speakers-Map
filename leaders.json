@@ -135,6 +135,14 @@
          "country":"UK",
          "lat":53.642603,
          "lng":-1.778514
+      },
+      {
+         "name":"Anup Kumar Mishra",
+         "url":"https://mozillians.org/en-GB/u/anupkumarmishra29/",
+         "gravatar":"anupkumarmishra29@gmail.com",
+         "country":"India",
+         "lat":28.6100,
+         "lng":77.2300
       }
    ]
 }

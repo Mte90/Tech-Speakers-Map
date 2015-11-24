@@ -143,6 +143,14 @@
          "country":"India",
          "lat":28.6100,
          "lng":77.2300
+      },
+      {
+         "name":"Andre Alves Garzia",
+         "url":"https://mozillians.org/en-US/u/andregarzia/",
+         "gravatar":"andre@andregarzia.com",
+         "country":"Brazil",
+         "lat":-22.910775,
+         "lng":-43.106492
       }
    ]
 }

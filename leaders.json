@@ -151,6 +151,14 @@
          "country":"Brazil",
          "lat":-22.910775,
          "lng":-43.106492
+      },
+      {
+         "name":"Viswaprasath",
+         "url":"https://mozillians.org/en-US/u/SHIHAN.VISWA/",
+         "gravatar":"shihan.viswa@gmail.com",
+         "country":"India",
+         "lat":13.087840,
+         "lng":80.278470
       }
    ]
 }

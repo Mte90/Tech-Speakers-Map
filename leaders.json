@@ -151,6 +151,14 @@
          "country":"Brazil",
          "lat":-22.910775,
          "lng":-43.106492
+      },
+      {
+         "name":"István Szmozsánszky",
+         "url":"https://mozillians.org/u/flaki/",
+         "gravatar":"flaki@mozilla.hu",
+         "country":"Hungary",
+         "lat":47.4925,
+         "lng":19.051389
       }
-   ]
+      ]
 }

@@ -167,6 +167,14 @@
          "country":"Hungary",
          "lat":47.4925,
          "lng":19.051389
+      },
+      {
+        "name": "George Roter", 
+        "url": "https://mozillians.org/en-US/u/geroter",
+        "gravatar": "groter@mozilla.com",
+        "country": "Canada",
+        "lat":43.684750,
+        "lng":-79.334971
       }
     ]
 }

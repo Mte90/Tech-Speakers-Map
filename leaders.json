@@ -191,6 +191,14 @@
                         "country": "India",
                         "lat": 13.025384,
                         "lng": 77.604536
+                },
+		{
+			"name": "Berni Melero",
+			"url": "https://mozillians.org/u/Berni/",
+			"gravatar": "bernimel@gmail.com",
+			"country": "Spain",
+			"lat": 40.4378698,
+			"lng": -3.8196226
 		}
 	]
 }

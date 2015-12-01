@@ -183,6 +183,14 @@
       			"country": "Bangladesh",
       			"lat": 23.7094780,
       			"lng": 90.4168060
-                }
+                },
+                {
+			"name": "Anivar Aravind",
+			"url": "https://mozillians.org/en-US/u/anivar/",
+                        "gravatar": "anivar.aravind@gmail.com",
+                        "country": "India",
+                        "lat": 13.025384,
+                        "lng": 77.604536
+		}
 	]
 }

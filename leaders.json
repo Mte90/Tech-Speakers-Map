@@ -199,6 +199,15 @@
 			"country": "Spain",
 			"lat": 40.4378698,
 			"lng": -3.8196226
+		},		
+		{
+			"name": "Irvin Chen",
+			"url": "https://mozillians.org/u/irvin/",
+			"gravatar": "irvin@moztw.org",
+			"country": "Taiwan",
+			"lat": 25.0440718,
+			"lng": 121.5143744
 		}
+
 	]
 }

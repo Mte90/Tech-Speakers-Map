@@ -175,6 +175,14 @@
 			"country": "Canada",
 			"lat": 43.684750,
 			"lng": -79.334971
-		}
+		},
+		{
+      			"name": "Mahay Alam Khan", 
+      			"url": "https://mozillians.org/en-US/u/maktrix",
+      			"gravatar": "mahayalamkhan@gmail.com",
+      			"country": "Bangladesh",
+      			"lat": 23.7094780,
+      			"lng": 90.4168060
+                }
 	]
 }

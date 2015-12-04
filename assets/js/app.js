@@ -44,7 +44,7 @@ function add_leaders() {
               var cell2 = row.insertCell(1);
               cell2.innerHTML = json[i].country;
             }
-            sorttable.makeSortable(newTableObject);
+            document.querySelector('#list thead td').click();
           });
 }
 

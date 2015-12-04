@@ -207,6 +207,13 @@
 			"country": "Taiwan",
 			"lat": 25.0440718,
 			"lng": 121.5143744
+		},
+		{"name": "Lora Chen",
+			"url": "https://mozillians.org/u/shadowcrow/",
+			"gravatar": "shadowcrow@moztw.org",
+			"country": "Taiwan",
+			"lat": 25.0440718,
+			"lng": 121.5143744
 		}
 
 	]

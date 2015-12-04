@@ -177,21 +177,21 @@
 			"lng": -79.334971
 		},
 		{
-      			"name": "Mahay Alam Khan", 
-      			"url": "https://mozillians.org/en-US/u/maktrix",
-      			"gravatar": "mahayalamkhan@gmail.com",
-      			"country": "Bangladesh",
-      			"lat": 23.7094780,
-      			"lng": 90.4168060
-                },
-                {
+			"name": "Mahay Alam Khan",
+			"url": "https://mozillians.org/en-US/u/maktrix",
+			"gravatar": "mahayalamkhan@gmail.com",
+			"country": "Bangladesh",
+			"lat": 23.7094780,
+			"lng": 90.4168060
+		},
+		{
 			"name": "Anivar Aravind",
 			"url": "https://mozillians.org/en-US/u/anivar/",
-                        "gravatar": "anivar.aravind@gmail.com",
-                        "country": "India",
-                        "lat": 13.025384,
-                        "lng": 77.604536
-                },
+			"gravatar": "anivar.aravind@gmail.com",
+			"country": "India",
+			"lat": 13.025384,
+			"lng": 77.604536
+		},
 		{
 			"name": "Berni Melero",
 			"url": "https://mozillians.org/u/Berni/",
@@ -199,7 +199,7 @@
 			"country": "Spain",
 			"lat": 40.4378698,
 			"lng": -3.8196226
-		},		
+		},
 		{
 			"name": "Irvin Chen",
 			"url": "https://mozillians.org/u/irvin/",
@@ -207,6 +207,30 @@
 			"country": "Taiwan",
 			"lat": 25.0440718,
 			"lng": 121.5143744
+		},
+		{
+			"name": "Flore Allemandou",
+			"url": "https://mozillians.org/en-US/u/Flore/",
+			"gravatar": "flore@mozfr.org",
+			"country": "France",
+			"lat": 45.759723,
+			"lng": 4.842223
+		},
+		{
+			"name": "Tanha Islam",
+			"url": "https://mozillians.org/en-US/u/pink.devil.tanha/",
+			"gravatar": "pink.devil.tanha@hotmail.com",
+			"country": "Bangladesh",
+			"lat": 23.7494231,
+			"lng": 90.3830754
+		},
+		{
+			"name": "Sara Mansouri",
+			"url": "https://mozillians.org/en-US/u/sara_mansouri/",
+			"gravatar": "s.mansoury@gmail.com",
+			"country": "Canada",
+			"lat": 51.503407051,
+			"lng": -0.12759200
 		}
 
 	]

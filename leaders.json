@@ -239,7 +239,14 @@
 			"country": "Taiwan",
 			"lat": 25.0440718,
 			"lng": 121.5143744
+		},
+				{
+			"name": "Rigin Oommen",
+			"url": "https://mozillians.org/u/riginoommen/",
+			"gravatar": "riginoommen@gmail.com",
+			"country": "India",
+			"lat": 9.3183270,
+			"lng": 76.6110850
 		}
-
 	]
 }

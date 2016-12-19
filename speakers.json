@@ -71,6 +71,14 @@
 			"country": "Hungary",
 			"lat": 47.4925,
 			"lng": 19.051389
+		},
+		{
+			"name": "Jan-Erik Rediger",
+			"url": "https://mozillians.org/u/jer/",
+			"gravatar": "",
+			"country": "Germany",
+			"lat": 50.7751,
+			"lng": 6.0837
 		}
 	]
 }

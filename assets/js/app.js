@@ -15,17 +15,17 @@ function create_map() {
   window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors'
   }).addTo(window.map);
-  add_leaders();
+  add_speakers();
 }
 
-function add_leaders() {
-  window.fetch('leaders.json')
+function add_speakers() {
+  window.fetch('speakers.json')
           .then(function (response) {
             return response.json();
           }).
           then(function (json) {
-            json = json.leaders;
-            console.log(json.length + ' Leaders loaded');
+            json = json.speakers;
+            console.log(json.length + ' Speakers loaded');
             document.querySelector('.counter').innerHTML = json.length + ' ';
             for (var i = 0; i < json.length; ++i) {
               //add marker

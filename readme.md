@@ -10,8 +10,8 @@
 
 * Create/Sign in into github account. (you can jump to step 4 or take them one by one)
 * Go to https://github.com/Mte90/Tech-Speakers-Map
-* Choose the file `leaders.json` - https://github.com/Mte90/Tech-Speakers-Map/blob/gh-pages/leaders.json 
-* Tap the pencil icon - near the history button - at the top of ther file **OR** https://github.com/Mte90/Tech-Speakers-Map/edit/gh-pages/leaders.json 
+* Choose the file `leaders.json` - https://github.com/Mte90/Tech-Speakers-Map/blob/gh-pages/speakers.json 
+* Tap the pencil icon - near the history button - at the top of ther file **OR** https://github.com/Mte90/Tech-Speakers-Map/edit/gh-pages/speakers.json 
 * Add your dates in a similar form as those already entered between `},{` or copy this:  
 ```            
 ,{

@@ -12,7 +12,7 @@ function create_map() {
     minZoom: 2,
     zoom: 2
   });
-  window.L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors'
   }).addTo(window.map);
   add_leaders();

@@ -87,6 +87,14 @@
 			"country": "India",
 			"lat": 12.8313744,
 			"lng": 80.0492536
+		},
+		{
+			"name": "Abhiram Ravikumar",
+			"url": "https://mozillians.org/u/abhi12ravi/",
+			"gravatar": "abhi12ravi@gmail.com",
+			"country": "India",
+			"lat": 12.971599,
+			"lng": 77.594563
 		}
 	]
 }

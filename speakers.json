@@ -79,6 +79,14 @@
 			"country": "Germany",
 			"lat": 50.7751,
 			"lng": 6.0837
+		},
+		{
+			"name": "Viswaprasath",
+			"url": "https://mozillians.org/u/SHIHAN.VISWA/",
+			"gravatar": "shihan.viswa@gmail.com",
+			"country": "India",
+			"lat": 12.8313744,
+			"lng": 80.0492536
 		}
 	]
 }

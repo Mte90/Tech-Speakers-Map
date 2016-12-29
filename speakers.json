@@ -95,6 +95,14 @@
 			"country": "India",
 			"lat": 12.971599,
 			"lng": 77.594563
+		},
+		{
+      			"name": "Rizky Ariestiyansyah", 
+     			"url": "https://mozillians.org/en-US/u/ariestiyansyah",
+    	  		"gravatar": "ariestiyansyah.rizky@gmail.com",
+      			"country": "Indonesia",
+      			"lat": -6.256133,
+      			"lng": 106.614987
 		}
 	]
 }

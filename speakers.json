@@ -103,6 +103,14 @@
       			"country": "Indonesia",
       			"lat": -6.256133,
       			"lng": 106.614987
+		},
+		{
+      			"name": "Srushtika Neelakantam", 
+     			"url": "https://mozillians.org/en-US/u/n.srushtika/",
+    	  		"gravatar": "n.srushtika@gmail.com",
+      			"country": "India",
+      			"lat": 13.1005,
+      			"lng": 77.5940
 		}
 	]
 }

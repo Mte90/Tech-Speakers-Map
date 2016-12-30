@@ -119,6 +119,13 @@
 			"country": "Indonesia",
 			"lat": -6.9691677,
 			"lng": 110.2526783
-		}
+		},
+			"name": "Santosh Viswanatham",
+			"url": "https://mozillians.org/en-US/u/viswanathamsantosh/",
+			"gravatar": "viswanathamsantosh@gmail.com",
+			"country": "India",
+			"lat": 17.3850,
+			"lng": 78.4867
+		}	
 	]
 }

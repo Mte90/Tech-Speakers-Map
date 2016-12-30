@@ -111,6 +111,14 @@
       			"country": "India",
       			"lat": 13.1005,
       			"lng": 77.5940
-		}
+		},
+		{
+			"name": "Santosh Viswanatham",
+			"url": "https://mozillians.org/en-US/u/viswanathamsantosh/",
+			"gravatar": "viswanathamsantosh@gmail.com",
+			"country": "India",
+			"lat": 17.3850,
+			"lng": 78.4867
+		}	
 	]
 }

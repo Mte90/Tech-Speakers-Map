@@ -97,7 +97,7 @@
 			"lng": 77.594563
 		},
 		{
-      			"name": "Rizky Ariestiyansyah", 
+      			"name": "Rizky Ariestiyansyah",
      			"url": "https://mozillians.org/en-US/u/ariestiyansyah",
     	  		"gravatar": "ariestiyansyah.rizky@gmail.com",
       			"country": "Indonesia",
@@ -105,12 +105,20 @@
       			"lng": 106.614987
 		},
 		{
-      			"name": "Srushtika Neelakantam", 
+      			"name": "Srushtika Neelakantam",
      			"url": "https://mozillians.org/en-US/u/n.srushtika/",
     	  		"gravatar": "n.srushtika@gmail.com",
       			"country": "India",
       			"lat": 13.1005,
       			"lng": 77.5940
+		},
+		{
+			"name": "Diky Arga Anggara",
+			"url": "https://mozillians.org/en-US/u/dikyarga/",
+			"gravatar": "dikyarga.id@gmail.com",
+			"country": "Indonesia",
+			"lat": -6.9691677,
+			"lng": 110.2526783
 		}
 	]
 }

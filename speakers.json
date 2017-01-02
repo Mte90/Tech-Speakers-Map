@@ -127,6 +127,14 @@
 			"country": "India",
 			"lat": 17.3850,
 			"lng": 78.4867
-		}	
+		},
+		{
+			"name": "Andrzej Mazur",
+			"url": "https://mozillians.org/u/end3r",
+			"gravatar": "andrzej.mazur@end3r.com",
+			"country": "Poland",
+			"lat": 52.2214997,
+			"lng": 20.933004
+		}
 	]
 }

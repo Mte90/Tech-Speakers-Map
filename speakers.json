@@ -167,6 +167,14 @@
       "country": "Tunisia",
       "lat": 33.918109,
       "lng": 8.118253
+},
+{
+      "name": "Giannis Konstantinidis", 
+      "url": "https://mozillians.org/en-US/u/Giannisk/",
+      "gravatar": "",
+      "country": "Greece",
+      "lat": 37.754786,
+      "lng": 26.977770
 }
 	]
 }

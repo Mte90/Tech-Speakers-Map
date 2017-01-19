@@ -145,37 +145,45 @@
 			"lng": 78.4867
 		},
 		{
-      "name": "Manel Rhaiem", 
-      "url": "https://mozillians.org/en-US/u/Mermi",
-      "gravatar": "manel.rhaiem92@gmail.com",
-      "country": "Tunisia",
-      "lat": 36.809978,
-      "lng": 10.101084
-},
-{
-      "name": "Amine Zaafouri", 
-      "url": "https://mozillians.org/en-US/u/Zaafouri",
-      "gravatar": " zaafouri.amine@gmail.com",
-      "country": "Tunisia",
-      "lat": 36.857515,
-      "lng": 10.157281
-},
-{
-      "name": "Ahmed Nefzaoui", 
-      "url": "https://mozillians.org/en-US/u/AhmedNefzaoui/",
-      "gravatar": "nefzaoui@arabicmozilla.org",
-      "country": "Tunisia",
-      "lat": 33.918109,
-      "lng": 8.118253
-},
-{
-      "name": "Giannis Konstantinidis", 
-      "url": "https://mozillians.org/en-US/u/Giannisk/",
-      "gravatar": "",
-      "country": "Greece",
-      "lat": 37.754786,
-      "lng": 26.977770
-}
+		      "name": "Manel Rhaiem", 
+		      "url": "https://mozillians.org/en-US/u/Mermi",
+		      "gravatar": "manel.rhaiem92@gmail.com",
+		      "country": "Tunisia",
+		      "lat": 36.809978,
+		      "lng": 10.101084
+		},
+		{
+		      "name": "Amine Zaafouri", 
+		      "url": "https://mozillians.org/en-US/u/Zaafouri",
+		      "gravatar": " zaafouri.amine@gmail.com",
+		      "country": "Tunisia",
+		      "lat": 36.857515,
+		      "lng": 10.157281
+		},
+		{
+		      "name": "Ahmed Nefzaoui", 
+		      "url": "https://mozillians.org/en-US/u/AhmedNefzaoui/",
+		      "gravatar": "nefzaoui@arabicmozilla.org",
+		      "country": "Tunisia",
+		      "lat": 33.918109,
+		      "lng": 8.118253
+		},
+		{
+		      "name": "Giannis Konstantinidis", 
+		      "url": "https://mozillians.org/en-US/u/Giannisk/",
+		      "gravatar": "",
+		      "country": "Greece",
+		      "lat": 37.754786,
+		      "lng": 26.977770
+		},
+		{
+		      "name": "Anjana Vakil", 
+		      "url": "https://mozillians.org/en-US/u/vakila/",
+		      "gravatar": "",
+		      "country": "Germany",
+		      "lat": 52.520008,
+		      "lng": 13.404954
+		}
 	]
 }
 

@@ -183,6 +183,14 @@
 		      "country": "Germany",
 		      "lat": 52.520008,
 		      "lng": 13.404954
+		},
+		{
+			"name": "Mijanur Rahman Rayhan",
+			"url": "https://mozillians.org/en-US/u/mijanur/",
+			"gravatar": " mijanur.rayhan74@gmail.com",
+			"country": "Bangladesh",
+			"lat": 24.904539,
+			"lng": 91.861101
 		}
 	]
 }

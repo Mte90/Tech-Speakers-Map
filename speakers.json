@@ -191,6 +191,14 @@
 			"country": "Bangladesh",
 			"lat": 24.904539,
 			"lng": 91.861101
+		},
+		{
+			"name": "Irene Storozhko",
+			"url": "https://mozillians.org/en-US/u/ireneOwl/",
+			"gravatar": "",
+			"country": "Canada",
+			"lat": 49.15,
+			"lng": 123.6
 		}
 	]
 }

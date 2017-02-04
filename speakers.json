@@ -199,6 +199,14 @@
 			"country": "Canada",
 			"lat": 49.303117,
 			"lng": -123.148630
+		},
+		{
+			"name": "Gabriel Mičko",
+			"url": "https://mozillians.org/en-US/u/gabriel.micko/",
+			"gravatar": "micsko@gmail.com",
+			"country": "Hungary",
+			"lat": 47.4925,
+			"lng": 19.051389
 		}
 	]
 }

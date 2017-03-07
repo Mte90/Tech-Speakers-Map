@@ -207,6 +207,14 @@
 			"country": "Hungary",
 			"lat": 47.4925,
 			"lng": 19.051389
+		},
+		{
+			"name": "Eugenio Petullà", 
+			"url": "https://mozillians.org/it/u/eugeniopetulla/",
+			"gravatar": "eugeniopetulla@yahoo.it",
+			"country": "Italy",
+			"lat": 41.909986,
+			"lng": 12.3959161
 		}
 	]
 }

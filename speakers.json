@@ -215,7 +215,15 @@
 			"country": "Italy",
 			"lat": 41.909986,
 			"lng": 12.3959161
-		}
+		},
+		{
+			"name": "Trishul Goel", 
+			"url": "https://mozillians.org/it/u/trishul/",
+			"gravatar": "trishul.goel@gmail.com",
+			"country": "India",
+			"lat": 77.2401945,
+			"lng": 28.5613494
+}
 	]
 }
 

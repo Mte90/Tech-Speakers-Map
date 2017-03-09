@@ -223,7 +223,15 @@
 			"country": "India",
 			"lat": 77.2401945,
 			"lng": 28.5613494
-}
+		},
+		{
+		      "name": "Gabriele Falasca", 
+		      "url": "https://mozillians.org/en-US/u/gabrycaos",
+		      "gravatar": "gabriele.falasca.89@gmail.com",
+		      "country": "Italy",
+		      "lat": 42.345120,
+		      "lng": 13.029234
+		},
 	]
 }
 

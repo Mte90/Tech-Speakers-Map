@@ -247,7 +247,15 @@
       			"country": "Nepal",
       			"lat": 27.6718564, 
       			"lng": 85.3275269
-		}
+		},
+		{
+		      "name": "Felipe do E. Santo", 
+		      "url": "https://mozillians.org/en-US/u/felipez3r0",
+		      "gravatar": "felipez3r0@gmail.com",
+		      "country": "Brazil",
+		      "lat": -21.2582351,
+		      "lng": -48.3604994
+		}		
 	]
 }
 

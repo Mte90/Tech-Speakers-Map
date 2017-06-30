@@ -223,7 +223,7 @@
 			"country": "India",
 			"lat": 77.2401945,
 			"lng": 28.5613494
-}
+},
 		{
 			"name": "Dikshit U.M.K.",
 			"url": "https://mozillians.org/en-US/u/umk_dikshit/",
@@ -232,8 +232,22 @@
 			"lat": 17.385044,
 			"lng": 78.486671
 		},
-		
-		
+		{
+			"name": "Robert Kaiser", 
+			"url": "https://mozillians.org/u/KaiRo/",
+			"gravatar": "kairo@kairo.at",
+			"country": "Austria",
+			"lat": 48.18593,
+			"lng": 16.34187
+		},
+		{
+      			"name": "Sujit Maharjan", 
+      			"url": "https://mozillians.org/en-US/u/shubhajeet/",
+      			"gravatar": "mail@maharjansujit.com.np",
+      			"country": "Nepal",
+      			"lat": 27.6718564, 
+      			"lng": 85.3275269
+		}
 	]
 }
 

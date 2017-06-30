@@ -271,6 +271,14 @@
 		      "country": "Brazil",
 		      "lat": -21.2582351,
 		      "lng": -48.3604994
+		},
+	{
+		      "name": "Rizki Kelimutu", 
+		      "url": "https://mozillians.org/en-US/u/kelimutu",
+		      "gravatar": "kelimutu.rizki@gmail.com",
+		      "country": "Indonesia",
+		      "lat": -6.1753942,
+		      "lng": 106.827183
 		}		
 	]
 }

@@ -38,3 +38,10 @@
 * Tap the Issues button from left side panel
 * Tap the green "New Issue" button
 * Add your data (gravatar email, mozillians profile url, latitude, longitude and country)
+
+### Finding my latitude and longitude
+You can easily find your latitude and longitude accessing OpenStreetMap: http://nominatim.openstreetmap.org
+* Search for your location
+* Click on details
+* Check the Centre Point information (lat and lng)
+* Done!

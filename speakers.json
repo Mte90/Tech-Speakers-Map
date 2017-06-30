@@ -223,7 +223,15 @@
 			"country": "India",
 			"lat": 77.2401945,
 			"lng": 28.5613494
-}
+		},
+		{
+      			"name": "Sujit Maharjan", 
+      			"url": "https://mozillians.org/en-US/u/shubhajeet/",
+      			"gravatar": "mail@maharjansujit.com.np",
+      			"country": "Nepal",
+      			"lat": 27.6718564, 
+      			"lng": 85.3275269
+		}
 	]
 }
 

@@ -1,334 +1,340 @@
 {
-	"speakers": [
-		{
-			"name": "Daniele Scasciafratte",
-			"url": "https://mozillians.org/u/Mte90",
-			"gravatar": "mte90net@gmail.com",
-			"country": "Italy",
-			"lat": 42.4154,
-			"lng": 12.863985
-		},
-		{
-		      "name": "Ram Dayal Vaishnav", 
-		      "url": "https://mozillians.org/en-US/u/gurumukhi",
-		      "gravatar": "vaishnav.rd@gmail.com",
-		      "country": "India",
-		      "lat": 17.38,
-		      "lng": 78.48
-		},
-		{
-			"name": "Rabimba Karanjai",
-			"url": "https://mozillians.org/u/karanjai.moz/",
-			"gravatar": "karanjai.moz@gmail.com",
-			"country": "United States",
-			"lat": 29.7604,
-			"lng": -95.3698
-		},
-		{
-			"name": "Ioana Chiorean",
-			"url": "https://mozillians.org/u/IoanaChiorean/",
-			"gravatar": "chiorean.ioana@gmail.com",
-			"country": "România",
-			"lat": 46.777248,
-			"lng": 23.5998899
-		},
-		{
-			"name": "Alex Lakatos",
-			"url": "https://mozillians.org/u/AlexLakatos/",
-			"gravatar": "alex.lakatos@mozilla.ro",
-			"country": "UK",
-			"lat": 51.5085300,
-			"lng": -0.1257400
-		},
-		{
-			"name": "Shagufta Methwani",
-			"url": "https://mozillians.org/en-US/u/methwanishagufta/",
-			"gravatar": "methwanishagufta@gmail.com",
-			"country": "India",
-			"lat": 18.4872770,
-			"lng": 73.8211830
-		},
-		{
-			"name": "Sumanth Damarla",
-			"url": "https://mozillians.org/en-US/u/sumanth/",
-			"gravatar": "damarla.sumanth@gmail.com",
-			"country": "India",
-			"lat": 17.385044,
-			"lng": 78.486671
-		},
-		{
-			"name": "Adriano Cupello",
-			"url": "https://mozillians.org/en-US/u/dricupello",
-			"gravatar": "dricupello@gmail.com",
-			"country": "Brazil",
-			"lat": -22.9,
-			"lng": -43.9
-		},
-		{
-			"name": "Andre Alves Garzia",
-			"url": "https://mozillians.org/en-US/u/andregarzia/",
-			"gravatar": "andre@andregarzia.com",
-			"country": "Brazil",
-			"lat": -22.9,
-			"lng": -42.5
-		},
-		{
-			"name": "István Szmozsánszky",
-			"url": "https://mozillians.org/u/flaki/",
-			"gravatar": "flaki@mozilla.hu",
-			"country": "Hungary",
-			"lat": 47.4925,
-			"lng": 19.051389
-		},
-		{
-			"name": "Jan-Erik Rediger",
-			"url": "https://mozillians.org/u/jer/",
-			"gravatar": "",
-			"country": "Germany",
-			"lat": 50.7751,
-			"lng": 6.0837
-		},
-		{
-			"name": "Viswaprasath",
-			"url": "https://mozillians.org/u/SHIHAN.VISWA/",
-			"gravatar": "shihan.viswa@gmail.com",
-			"country": "India",
-			"lat": 12.8313744,
-			"lng": 80.0492536
-		},
-		{
-			"name": "Abhiram Ravikumar",
-			"url": "https://mozillians.org/u/abhi12ravi/",
-			"gravatar": "abhi12ravi@gmail.com",
-			"country": "India",
-			"lat": 12.971599,
-			"lng": 77.594563
-		},
-		{
-      			"name": "Rizky Ariestiyansyah",
-     			"url": "https://mozillians.org/en-US/u/ariestiyansyah",
-    	  		"gravatar": "ariestiyansyah.rizky@gmail.com",
-      			"country": "Indonesia",
-      			"lat": -6.256133,
-      			"lng": 106.614987
-		},
-		{
-      			"name": "Srushtika Neelakantam",
-     			"url": "https://mozillians.org/en-US/u/n.srushtika/",
-    	  		"gravatar": "n.srushtika@gmail.com",
-      			"country": "India",
-      			"lat": 13.1005,
-      			"lng": 77.5940
-		},
-		{
-			"name": "Diky Arga Anggara",
-			"url": "https://mozillians.org/en-US/u/dikyarga/",
-			"gravatar": "dikyarga.id@gmail.com",
-			"country": "Indonesia",
-			"lat": -6.9691677,
-			"lng": 110.2526783
-		},
-		{
-			"name": "Santosh Viswanatham",
-			"url": "https://mozillians.org/en-US/u/viswanathamsantosh/",
-			"gravatar": "viswanathamsantosh@gmail.com",
-			"country": "India",
-			"lat": 17.3850,
-			"lng": 78.4867
-		},
-		{
-			"name": "Andrzej Mazur",
-			"url": "https://mozillians.org/u/end3r",
-			"gravatar": "andrzej.mazur@end3r.com",
-			"country": "Poland",
-			"lat": 52.2214997,
-			"lng": 20.933004
-		},
-		{
-			"name": "Rufus Chakravarthy Sharma",
-			"url": "https://mozillians.org/en-US/u/RufusCSharma/",
-			"gravatar": "rufus5576@gmail.com",
-			"country": "India",
-			"lat": 17.3850,
-			"lng": 78.4867
-		},
-		{
-		      "name": "Manel Rhaiem", 
-		      "url": "https://mozillians.org/en-US/u/Mermi",
-		      "gravatar": "manel.rhaiem92@gmail.com",
-		      "country": "Tunisia",
-		      "lat": 36.809978,
-		      "lng": 10.101084
-		},
-		{
-		      "name": "Amine Zaafouri", 
-		      "url": "https://mozillians.org/en-US/u/Zaafouri",
-		      "gravatar": " zaafouri.amine@gmail.com",
-		      "country": "Tunisia",
-		      "lat": 36.857515,
-		      "lng": 10.157281
-		},
-		{
-		      "name": "Ahmed Nefzaoui", 
-		      "url": "https://mozillians.org/en-US/u/AhmedNefzaoui/",
-		      "gravatar": "nefzaoui@arabicmozilla.org",
-		      "country": "Tunisia",
-		      "lat": 33.918109,
-		      "lng": 8.118253
-		},
-		{
-		      "name": "Giannis Konstantinidis", 
-		      "url": "https://mozillians.org/en-US/u/Giannisk/",
-		      "gravatar": "",
-		      "country": "Greece",
-		      "lat": 37.754786,
-		      "lng": 26.977770
-		},
-		{
-		      "name": "Anjana Vakil", 
-		      "url": "https://mozillians.org/en-US/u/vakila/",
-		      "gravatar": "",
-		      "country": "Germany",
-		      "lat": 52.520008,
-		      "lng": 13.404954
-		},
-		{
-			"name": "Mijanur Rahman Rayhan",
-			"url": "https://mozillians.org/en-US/u/mijanur/",
-			"gravatar": " mijanur.rayhan74@gmail.com",
-			"country": "Bangladesh",
-			"lat": 24.904539,
-			"lng": 91.861101
-		},
-		{
-			"name": "Irene Storozhko",
-			"url": "https://mozillians.org/en-US/u/ireneOwl/",
-			"gravatar": "",
-			"country": "Canada",
-			"lat": 49.303117,
-			"lng": -123.148630
-		},
-		{
-			"name": "Gabriel Mičko",
-			"url": "https://mozillians.org/en-US/u/gabriel.micko/",
-			"gravatar": "micsko@gmail.com",
-			"country": "Hungary",
-			"lat": 47.4925,
-			"lng": 19.051389
-		},
-		{
-			"name": "Eugenio Petullà", 
-			"url": "https://mozillians.org/it/u/eugeniopetulla/",
-			"gravatar": "eugeniopetulla@yahoo.it",
-			"country": "Italy",
-			"lat": 41.909986,
-			"lng": 12.3959161
-		},
-		{
-			"name": "Trishul Goel", 
-			"url": "https://mozillians.org/it/u/trishul/",
-			"gravatar": "trishul.goel@gmail.com",
-			"country": "India",
-			"lat": 77.2401945,
-			"lng": 28.5613494
-},
-		{
-			"name": "Dikshit U.M.K.",
-			"url": "https://mozillians.org/en-US/u/umk_dikshit/",
-			"gravatar": "dikshitrocks93@gmail.com",
-			"country": "India",
-			"lat": 17.385044,
-			"lng": 78.486671
-		},
-		{
-			"name": "Robert Kaiser", 
-			"url": "https://mozillians.org/u/KaiRo/",
-			"gravatar": "kairo@kairo.at",
-			"country": "Austria",
-			"lat": 48.18593,
-			"lng": 16.34187
-		},
-		{
-      			"name": "Sujit Maharjan", 
-      			"url": "https://mozillians.org/en-US/u/shubhajeet/",
-      			"gravatar": "mail@maharjansujit.com.np",
-      			"country": "Nepal",
-      			"lat": 27.6718564, 
-      			"lng": 85.3275269
-		},
-		{
-      			"name": "Abiel Tomás Parra Hernández", 
-      			"url": "https://mozillians.org/en-US/u/quarry.cero/",
-      			"gravatar": "abiel.tph@mozilla-mexico.org",
-      			"country": "México",
-      			"lat": 19.4327, 
-      			"lng": -99.1333
-		},
-    {
-		      "name": "Felipe do E. Santo", 
-		      "url": "https://mozillians.org/en-US/u/felipez3r0",
-		      "gravatar": "felipez3r0@gmail.com",
-		      "country": "Brazil",
-		      "lat": -21.2582351,
-		      "lng": -48.3604994
-		},
-	{
-		      "name": "Boris Budini", 
-		      "url": "https://mozillians.org/en-US/u/borisbudini",
-		      "gravatar": "borisbudini@gmail.com",
-		      "country": "Albania",
-		      "lat": 41.316667,
-		      "lng": 19.45
-		},
-			{
-		      "name": "Redon Skikuli", 
-		      "url": "https://mozillians.org/en-US/u/rskikuli",
-		      "gravatar": "rskikuli@gmail.com",
-		      "country": "Albania",
-		      "lat": 41.1108,
-		      "lng": 20.0820
-		},
-			{
-		      "name": "Elio Qoshi", 
-		      "url": "https://mozillians.org/en-US/u/elioqoshi",
-		      "gravatar": "elioqoshi@gmail.com",
-		      "country": "Albania",
-		      "lat": 41.328889,
-		      "lng": 19.817778
-		},
-			{
-		      "name": "Kristi Progri", 
-		      "url": "https://mozillians.org/en-US/u/kristi.progri",
-		      "gravatar": "kristiprogri94@gmail.com",
-		      "country": "Albania",
-		      "lat": 41.328889,
-		      "lng": 19.817778
-		},
-			{
-		      "name": "Tanay Pant", 
-		      "url": "https://mozillians.org/en-US/u/tanay1337",
-		      "gravatar": "tanay1337@gmail.com",
-		      "country": "Germany",
-		      "lat": 52.507222,
-		      "lng": 13.145833
-		},
-			{
-		      "name": "Riccardo Iaconelli", 
-		      "url": "https://mozillians.org/en-US/u/riccardo",
-		      "gravatar": "riccardo@kde.org",
-		      "country": "Italy",
-		      "lat": 45.466667,
-		      "lng": 9.183333
-		},
-		{
-		      "name": "Rizki Kelimutu", 
-		      "url": "https://mozillians.org/en-US/u/kelimutu",
-		      "gravatar": "kelimutu.rizki@gmail.com",
-		      "country": "Indonesia",
-		      "lat": -6.1753942,
-		      "lng": 106.827183
-		}		
-	]
+   "speakers":[
+      {
+         "name":"Daniele Scasciafratte",
+         "url":"https://mozillians.org/u/Mte90",
+         "gravatar":"mte90net@gmail.com",
+         "country":"Italy",
+         "lat":42.4154,
+         "lng":12.863985
+      },
+      {
+         "name":"Ram Dayal Vaishnav",
+         "url":"https://mozillians.org/en-US/u/gurumukhi",
+         "gravatar":"vaishnav.rd@gmail.com",
+         "country":"India",
+         "lat":17.38,
+         "lng":78.48
+      },
+      {
+         "name":"Rabimba Karanjai",
+         "url":"https://mozillians.org/u/karanjai.moz/",
+         "gravatar":"karanjai.moz@gmail.com",
+         "country":"United States",
+         "lat":29.7604,
+         "lng":-95.3698
+      },
+      {
+         "name":"Ioana Chiorean",
+         "url":"https://mozillians.org/u/IoanaChiorean/",
+         "gravatar":"chiorean.ioana@gmail.com",
+         "country":"România",
+         "lat":46.777248,
+         "lng":23.5998899
+      },
+      {
+         "name":"Alex Lakatos",
+         "url":"https://mozillians.org/u/AlexLakatos/",
+         "gravatar":"alex.lakatos@mozilla.ro",
+         "country":"UK",
+         "lat":51.5085300,
+         "lng":-0.1257400
+      },
+      {
+         "name":"Shagufta Methwani",
+         "url":"https://mozillians.org/en-US/u/methwanishagufta/",
+         "gravatar":"methwanishagufta@gmail.com",
+         "country":"India",
+         "lat":18.4872770,
+         "lng":73.8211830
+      },
+      {
+         "name":"Sumanth Damarla",
+         "url":"https://mozillians.org/en-US/u/sumanth/",
+         "gravatar":"damarla.sumanth@gmail.com",
+         "country":"India",
+         "lat":17.385044,
+         "lng":78.486671
+      },
+      {
+         "name":"Adriano Cupello",
+         "url":"https://mozillians.org/en-US/u/dricupello",
+         "gravatar":"dricupello@gmail.com",
+         "country":"Brazil",
+         "lat":-22.9,
+         "lng":-43.9
+      },
+      {
+         "name":"Andre Alves Garzia",
+         "url":"https://mozillians.org/en-US/u/andregarzia/",
+         "gravatar":"andre@andregarzia.com",
+         "country":"Brazil",
+         "lat":-22.9,
+         "lng":-42.5
+      },
+      {
+         "name":"István Szmozsánszky",
+         "url":"https://mozillians.org/u/flaki/",
+         "gravatar":"flaki@mozilla.hu",
+         "country":"Hungary",
+         "lat":47.4925,
+         "lng":19.051389
+      },
+      {
+         "name":"Jan-Erik Rediger",
+         "url":"https://mozillians.org/u/jer/",
+         "gravatar":"",
+         "country":"Germany",
+         "lat":50.7751,
+         "lng":6.0837
+      },
+      {
+         "name":"Viswaprasath",
+         "url":"https://mozillians.org/u/SHIHAN.VISWA/",
+         "gravatar":"shihan.viswa@gmail.com",
+         "country":"India",
+         "lat":12.8313744,
+         "lng":80.0492536
+      },
+      {
+         "name":"Abhiram Ravikumar",
+         "url":"https://mozillians.org/u/abhi12ravi/",
+         "gravatar":"abhi12ravi@gmail.com",
+         "country":"India",
+         "lat":12.971599,
+         "lng":77.594563
+      },
+      {
+         "name":"Rizky Ariestiyansyah",
+         "url":"https://mozillians.org/en-US/u/ariestiyansyah",
+         "gravatar":"ariestiyansyah.rizky@gmail.com",
+         "country":"Indonesia",
+         "lat":-6.256133,
+         "lng":106.614987
+      },
+      {
+         "name":"Srushtika Neelakantam",
+         "url":"https://mozillians.org/en-US/u/n.srushtika/",
+         "gravatar":"n.srushtika@gmail.com",
+         "country":"India",
+         "lat":13.1005,
+         "lng":77.5940
+      },
+      {
+         "name":"Diky Arga Anggara",
+         "url":"https://mozillians.org/en-US/u/dikyarga/",
+         "gravatar":"dikyarga.id@gmail.com",
+         "country":"Indonesia",
+         "lat":-6.9691677,
+         "lng":110.2526783
+      },
+      {
+         "name":"Santosh Viswanatham",
+         "url":"https://mozillians.org/en-US/u/viswanathamsantosh/",
+         "gravatar":"viswanathamsantosh@gmail.com",
+         "country":"India",
+         "lat":17.3850,
+         "lng":78.4867
+      },
+      {
+         "name":"Andrzej Mazur",
+         "url":"https://mozillians.org/u/end3r",
+         "gravatar":"andrzej.mazur@end3r.com",
+         "country":"Poland",
+         "lat":52.2214997,
+         "lng":20.933004
+      },
+      {
+         "name":"Rufus Chakravarthy Sharma",
+         "url":"https://mozillians.org/en-US/u/RufusCSharma/",
+         "gravatar":"rufus5576@gmail.com",
+         "country":"India",
+         "lat":17.3850,
+         "lng":78.4867
+      },
+      {
+         "name":"Manel Rhaiem",
+         "url":"https://mozillians.org/en-US/u/Mermi",
+         "gravatar":"manel.rhaiem92@gmail.com",
+         "country":"Tunisia",
+         "lat":36.809978,
+         "lng":10.101084
+      },
+      {
+         "name":"Amine Zaafouri",
+         "url":"https://mozillians.org/en-US/u/Zaafouri",
+         "gravatar":" zaafouri.amine@gmail.com",
+         "country":"Tunisia",
+         "lat":36.857515,
+         "lng":10.157281
+      },
+      {
+         "name":"Ahmed Nefzaoui",
+         "url":"https://mozillians.org/en-US/u/AhmedNefzaoui/",
+         "gravatar":"nefzaoui@arabicmozilla.org",
+         "country":"Tunisia",
+         "lat":33.918109,
+         "lng":8.118253
+      },
+      {
+         "name":"Giannis Konstantinidis",
+         "url":"https://mozillians.org/en-US/u/Giannisk/",
+         "gravatar":"",
+         "country":"Greece",
+         "lat":37.754786,
+         "lng":26.977770
+      },
+      {
+         "name":"Anjana Vakil",
+         "url":"https://mozillians.org/en-US/u/vakila/",
+         "gravatar":"",
+         "country":"Germany",
+         "lat":52.520008,
+         "lng":13.404954
+      },
+      {
+         "name":"Mijanur Rahman Rayhan",
+         "url":"https://mozillians.org/en-US/u/mijanur/",
+         "gravatar":" mijanur.rayhan74@gmail.com",
+         "country":"Bangladesh",
+         "lat":24.904539,
+         "lng":91.861101
+      },
+      {
+         "name":"Irene Storozhko",
+         "url":"https://mozillians.org/en-US/u/ireneOwl/",
+         "gravatar":"",
+         "country":"Canada",
+         "lat":49.303117,
+         "lng":-123.148630
+      },
+      {
+         "name":"Gabriel Mičko",
+         "url":"https://mozillians.org/en-US/u/gabriel.micko/",
+         "gravatar":"micsko@gmail.com",
+         "country":"Hungary",
+         "lat":47.4925,
+         "lng":19.051389
+      },
+      {
+         "name":"Eugenio Petullà",
+         "url":"https://mozillians.org/it/u/eugeniopetulla/",
+         "gravatar":"eugeniopetulla@yahoo.it",
+         "country":"Italy",
+         "lat":41.909986,
+         "lng":12.3959161
+      },
+      {
+         "name":"Trishul Goel",
+         "url":"https://mozillians.org/it/u/trishul/",
+         "gravatar":"trishul.goel@gmail.com",
+         "country":"India",
+         "lat":77.2401945,
+         "lng":28.5613494
+      },
+      {
+         "name":"Dikshit U.M.K.",
+         "url":"https://mozillians.org/en-US/u/umk_dikshit/",
+         "gravatar":"dikshitrocks93@gmail.com",
+         "country":"India",
+         "lat":17.385044,
+         "lng":78.486671
+      },
+      {
+         "name":"Robert Kaiser",
+         "url":"https://mozillians.org/u/KaiRo/",
+         "gravatar":"kairo@kairo.at",
+         "country":"Austria",
+         "lat":48.18593,
+         "lng":16.34187
+      },
+      {
+         "name":"Sujit Maharjan",
+         "url":"https://mozillians.org/en-US/u/shubhajeet/",
+         "gravatar":"mail@maharjansujit.com.np",
+         "country":"Nepal",
+         "lat":27.6718564,
+         "lng":85.3275269
+      },
+      {
+         "name":"Abiel Tomás Parra Hernández",
+         "url":"https://mozillians.org/en-US/u/quarry.cero/",
+         "gravatar":"abiel.tph@mozilla-mexico.org",
+         "country":"México",
+         "lat":19.4327,
+         "lng":-99.1333
+      },
+      {
+         "name":"Felipe do E. Santo",
+         "url":"https://mozillians.org/en-US/u/felipez3r0",
+         "gravatar":"felipez3r0@gmail.com",
+         "country":"Brazil",
+         "lat":-21.2582351,
+         "lng":-48.3604994
+      },
+      {
+         "name":"Boris Budini",
+         "url":"https://mozillians.org/en-US/u/borisbudini",
+         "gravatar":"borisbudini@gmail.com",
+         "country":"Albania",
+         "lat":41.316667,
+         "lng":19.45
+      },
+      {
+         "name":"Redon Skikuli",
+         "url":"https://mozillians.org/en-US/u/rskikuli",
+         "gravatar":"rskikuli@gmail.com",
+         "country":"Albania",
+         "lat":41.1108,
+         "lng":20.0820
+      },
+      {
+         "name":"Elio Qoshi",
+         "url":"https://mozillians.org/en-US/u/elioqoshi",
+         "gravatar":"elioqoshi@gmail.com",
+         "country":"Albania",
+         "lat":41.328889,
+         "lng":19.817778
+      },
+      {
+         "name":"Kristi Progri",
+         "url":"https://mozillians.org/en-US/u/kristi.progri",
+         "gravatar":"kristiprogri94@gmail.com",
+         "country":"Albania",
+         "lat":41.328889,
+         "lng":19.817778
+      },
+      {
+         "name":"Tanay Pant",
+         "url":"https://mozillians.org/en-US/u/tanay1337",
+         "gravatar":"tanay1337@gmail.com",
+         "country":"Germany",
+         "lat":52.507222,
+         "lng":13.145833
+      },
+      {
+         "name":"Riccardo Iaconelli",
+         "url":"https://mozillians.org/en-US/u/riccardo",
+         "gravatar":"riccardo@kde.org",
+         "country":"Italy",
+         "lat":45.466667,
+         "lng":9.183333
+      },
+      {
+         "name":"Rizki Kelimutu",
+         "url":"https://mozillians.org/en-US/u/kelimutu",
+         "gravatar":"kelimutu.rizki@gmail.com",
+         "country":"Indonesia",
+         "lat":-6.1753942,
+         "lng":106.827183
+      },
+      {
+         "name":"Candy Tricia Khohliwe",
+         "url":"https://mozillians.org/en-US/u/ckhohliwe/",
+         "gravatar":"ckhohliwe@gmail.com",
+         "country":"Botswana",
+         "lat":24.6849,
+         "lng":22.3285
+      }
+   ]
 }
-
-

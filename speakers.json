@@ -273,6 +273,54 @@
 		      "lng": -48.3604994
 		},
 	{
+		      "name": "Boris Budini", 
+		      "url": "https://mozillians.org/en-US/u/borisbudini",
+		      "gravatar": "borisbudini@gmail.com",
+		      "country": "Albania",
+		      "lat": 41.316667,
+		      "lng": 19.45
+		},
+			{
+		      "name": "Redon Skikuli", 
+		      "url": "https://mozillians.org/en-US/u/rskikuli",
+		      "gravatar": "rskikuli@gmail.com",
+		      "country": "Albania",
+		      "lat": 41.1108,
+		      "lng": 20.0820
+		},
+			{
+		      "name": "Elio Qoshi", 
+		      "url": "https://mozillians.org/en-US/u/elioqoshi",
+		      "gravatar": "elioqoshi@gmail.com",
+		      "country": "Albania",
+		      "lat": 41.328889,
+		      "lng": 19.817778
+		},
+			{
+		      "name": "Kristi Progri", 
+		      "url": "https://mozillians.org/en-US/u/kristi.progri",
+		      "gravatar": "kristiprogri94@gmail.com",
+		      "country": "Albania",
+		      "lat": 41.328889,
+		      "lng": 19.817778
+		},
+			{
+		      "name": "Tanay Pant", 
+		      "url": "https://mozillians.org/en-US/u/tanay1337",
+		      "gravatar": "tanay1337@gmail.com",
+		      "country": "Germany",
+		      "lat": 52.507222,
+		      "lng": 13.145833
+		},
+			{
+		      "name": "Riccardo Iaconelli", 
+		      "url": "https://mozillians.org/en-US/u/riccardo",
+		      "gravatar": "riccardo@kde.org",
+		      "country": "Italy",
+		      "lat": 45.466667,
+		      "lng": 9.183333
+		},
+		{
 		      "name": "Rizki Kelimutu", 
 		      "url": "https://mozillians.org/en-US/u/kelimutu",
 		      "gravatar": "kelimutu.rizki@gmail.com",

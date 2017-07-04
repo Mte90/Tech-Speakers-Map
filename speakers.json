@@ -335,6 +335,30 @@
          "country":"Botswana",
          "lat":24.6849,
          "lng":22.3285
+      },
+      {
+         "name":"Yuliana Reyna Jimenez",
+         "url":"https://mozillians.org/en-US/u/tuxxy",
+         "gravatar":"yulireyji@gmail.com",
+         "country":"México",
+         "lat":19.4327,
+         "lng":-99.1333
+      },
+      {
+         "name":"Luis A. Sanchez Romero",
+         "url":"https://mozillians.org/en-US/u/lasr21",
+         "gravatar":"lasr21@gmail.com",
+         "country":"México",
+         "lat":19.4327,
+         "lng":-99.1333
+      },
+      {
+         "name":"Alex Mayorga",
+         "url":"https://mozillians.org/en-US/u/alex_mayorga",
+         "gravatar":"alex_mayorga@yahoo.com",
+         "country":"México",
+         "lat":25.6399,
+         "lng":-100.3045
       }
    ]
 }

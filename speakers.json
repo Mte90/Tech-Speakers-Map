@@ -367,6 +367,14 @@
          "country":"Italy",
          "lat":42.345120,
          "lng":13.029234
+      },
+      {
+         "name":"Jayesh Katta Ramalingaiah",
+         "url":"https://mozillians.org/en-US/u/jayeshkr",
+         "gravatar":"kr.jayesh94@gmail.com",
+         "country":"Italy",
+         "lat":18.910000,
+         "lng":72.809998
       }
    ]
 }

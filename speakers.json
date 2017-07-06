@@ -359,6 +359,14 @@
          "country":"México",
          "lat":25.6399,
          "lng":-100.3045
+      },
+      {
+         "name":"Gabriele Falasca",
+         "url":"https://mozillians.org/en-US/u/gabrycaos",
+         "gravatar":"gabriele.falasca.89@gmail.com",
+         "country":"Italy",
+         "lat":42.345120,
+         "lng":13.029234
       }
    ]
 }

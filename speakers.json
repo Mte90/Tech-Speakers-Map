@@ -375,6 +375,14 @@
          "country":"India",
          "lat":18.910000,
          "lng":72.809998
+      },
+      {
+         "name":"Alaa M.M. Shaheen",
+         "url":"https://mozillians.org/en-US/u/ashaheen",
+         "gravatar":"alaa.shaheen2012@gmail.com",
+         "country":"Palestine",
+         "lat":31.952162,
+         "lng":35.23315400000001
       }
    ]
 }

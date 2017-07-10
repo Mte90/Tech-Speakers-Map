@@ -383,6 +383,14 @@
          "country":"Palestine",
          "lat":31.952162,
          "lng":35.23315400000001
+      },
+      {
+         "name":"Dipesh C Monga",
+         "url":"https://mozillians.org/en-US/u/dimonga/",
+         "email":"dipeshcmonga@gmail.com",
+         "country":"India",
+         "lat":22.657218,
+         "lng":75.906823
       }
    ]
 }

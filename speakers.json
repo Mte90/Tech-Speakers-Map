@@ -391,6 +391,14 @@
          "country":"India",
          "lat":22.657218,
          "lng":75.906823
+      },
+      {
+        "name": "Pooja Purswani",
+        "url": "https://mozillians.org/en-US/u/puja.ap93/",
+        "gravatar": "puja.ap93@gmail.com",
+        "country": "India",
+        "lat": 23.8420165,
+        "lng": 80.3958556
       }
    ]
 }

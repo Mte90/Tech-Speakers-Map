@@ -399,6 +399,15 @@
         "country": "India",
         "lat": 23.8420165,
         "lng": 80.3958556
+      },
+      ,
+      {
+        "name": "Vigneshwer Dhinakaran", 
+        "url": "https://mozillians.org/en-US/u/dvigneshwer/",
+        "gravatar": "dvigneshwer@gmail.com",
+        "country": "India",
+        "lat": 12.9713,
+        "lng": 77.7501
       }
    ]
 }

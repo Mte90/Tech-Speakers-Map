@@ -275,7 +275,7 @@
       {
          "name":"Boris Budini",
          "url":"https://mozillians.org/en-US/u/borisbudini",
-         "gravatar":"borisbudini@gmail.com",
+         "gravatar":"boris@budini.me",
          "country":"Albania",
          "lat":41.316667,
          "lng":19.45
@@ -293,8 +293,8 @@
          "url":"https://mozillians.org/en-US/u/elioqoshi",
          "gravatar":"elioqoshi@gmail.com",
          "country":"Albania",
-         "lat":41.328889,
-         "lng":19.817778
+         "lat":41.328789,
+         "lng":19.817758
       },
       {
          "name":"Kristi Progri",
@@ -400,7 +400,6 @@
         "lat": 23.8420165,
         "lng": 80.3958556
       },
-      ,
       {
         "name": "Vigneshwer Dhinakaran", 
         "url": "https://mozillians.org/en-US/u/dvigneshwer/",

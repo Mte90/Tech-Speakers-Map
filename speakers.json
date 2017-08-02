@@ -407,6 +407,14 @@
         "country": "India",
         "lat": 12.9713,
         "lng": 77.7501
+      },
+      {
+      "name": "Robert Reyes", 
+      "url": "https://mozillians.org/en-US/u/bobreyes/",
+      "gravatar": "robert.reyes@gmail.com",
+      "country": "Philippines",
+      "lat": 14.5547,
+      "lng": 121.0244
       }
    ]
 }
